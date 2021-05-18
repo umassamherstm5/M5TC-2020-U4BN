@@ -34,9 +34,6 @@ IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-VaultGUID=
-ReleaseVaultName=
-ItemGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -110,78 +107,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\NC Drill\U4BNV1 PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\NC Drill\U4BNV1 PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\NC Drill\U4BNV1 PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\NC Drill\U4BNV1 PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for M5TC-2020-U4BN01A(01)\Gerber\U4BNV1 PCB.RUL
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -530,6 +455,12 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=Export Comments
+OutputName7=Export Comments
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
